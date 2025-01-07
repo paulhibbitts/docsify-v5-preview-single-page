@@ -707,7 +707,3 @@ loca: Ampyx si quis. Videri grates trifida letum talia pectus sequeretur erat
 ignescere eburno e decolor terga.
 
 > Note: Example page content from [GetGrav.org](https://learn.getgrav.org/17/content/markdown), included to demonstrate the portability of Markdown-based content
-
-### Demo iFrame
-
-<iframe src="demo_iframe.htm" height="200" width="300" title="Iframe Example"></iframe>
